@@ -2,6 +2,9 @@ import os
 import shutil
 import numpy as np
 
+TRAIN_PCT = 0.8
+VAL_PCT = 0.1
+
 
 def split_data(image_dir, label_dir, root_dir, train_pct, val_pct):
     subsets = ['train', 'val', 'test']
@@ -36,4 +39,4 @@ def split_data(image_dir, label_dir, root_dir, train_pct, val_pct):
     move_files(test_images, 'test')
 
 
-split_data('./images', './labels', './', 0.8, 0.1)
+split_data('./images', './labels', './', TRAIN_PCT, VAL_PCT)
