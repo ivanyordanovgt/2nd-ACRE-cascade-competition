@@ -1,0 +1,3287 @@
+<root>
+ <version>2.3.2</version>
+ <metadata>
+  <imageFiles>
+   <RGB>Lot1_67.jpg</RGB>
+  </imageFiles>
+  <size>
+   <width>2046</width>
+   <height>1080</height>
+  </size>
+  <imageSet>
+   <name>Sprint10</name>
+  </imageSet>
+  <annotation>
+   <username>TAEP2022_06</username>
+   <firstModif>2023-01-14 15:30:20</firstModif>
+   <lastModif>2023-01-16 00:38:58</lastModif>
+   <state>done</state>
+  </annotation>
+  <contourDetection>
+   <preAnnotation>
+    <method>kmeans</method>
+    <hue>55</hue>
+    <hueTolerance>20</hueTolerance>
+    <hMin>35</hMin>
+    <hMax>75</hMax>
+    <nbOfClusters>2</nbOfClusters>
+    <color>
+     <hue>100</hue>
+     <saturation>200</saturation>
+     <value>100</value>
+    </color>
+    <precision>3.1</precision>
+    <processTime>1</processTime>
+   </preAnnotation>
+  </contourDetection>
+ </metadata>
+ <data>
+  <usable>
+   <isUsable>true</isUsable>
+   <reason/>
+  </usable>
+  <isVisible>true</isVisible>
+  <clippings>
+   <number>84</number>
+   <clipping id="1">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>2016</x>
+     <y>64</y>
+    </center>
+    <points>
+     <number>16</number>
+     <point y="35" x="2001" id="1"/>
+     <point y="36" x="2005" id="2"/>
+     <point y="41" x="2015" id="3"/>
+     <point y="44" x="2019" id="4"/>
+     <point y="52" x="2024" id="5"/>
+     <point y="52" x="2031" id="6"/>
+     <point y="50" x="2041" id="7"/>
+     <point y="50" x="2044" id="8"/>
+     <point y="64" x="2045" id="9"/>
+     <point y="64" x="2027" id="10"/>
+     <point y="71" x="2015" id="11"/>
+     <point y="66" x="2009" id="12"/>
+     <point y="61" x="2015" id="13"/>
+     <point y="54" x="2013" id="14"/>
+     <point y="50" x="2006" id="15"/>
+     <point y="36" x="1997" id="16"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="2">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1843</x>
+     <y>29</y>
+    </center>
+    <points>
+     <number>12</number>
+     <point y="9" x="1836" id="1"/>
+     <point y="11" x="1840" id="2"/>
+     <point y="21" x="1848" id="3"/>
+     <point y="32" x="1851" id="4"/>
+     <point y="40" x="1852" id="5"/>
+     <point y="49" x="1851" id="6"/>
+     <point y="54" x="1844" id="7"/>
+     <point y="49" x="1843" id="8"/>
+     <point y="40" x="1842" id="9"/>
+     <point y="30" x="1840" id="10"/>
+     <point y="18" x="1835" id="11"/>
+     <point y="11" x="1830" id="12"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="3">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1750</x>
+     <y>35</y>
+    </center>
+    <points>
+     <number>15</number>
+     <point y="13" x="1743" id="1"/>
+     <point y="16" x="1748" id="2"/>
+     <point y="24" x="1756" id="3"/>
+     <point y="29" x="1763" id="4"/>
+     <point y="35" x="1767" id="5"/>
+     <point y="41" x="1764" id="6"/>
+     <point y="41" x="1758" id="7"/>
+     <point y="47" x="1749" id="8"/>
+     <point y="53" x="1743" id="9"/>
+     <point y="55" x="1738" id="10"/>
+     <point y="47" x="1738" id="11"/>
+     <point y="38" x="1743" id="12"/>
+     <point y="31" x="1743" id="13"/>
+     <point y="23" x="1736" id="14"/>
+     <point y="13" x="1736" id="15"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="4">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1717</x>
+     <y>97</y>
+    </center>
+    <points>
+     <number>29</number>
+     <point y="61" x="1727" id="1"/>
+     <point y="61" x="1737" id="2"/>
+     <point y="70" x="1747" id="3"/>
+     <point y="81" x="1747" id="4"/>
+     <point y="86" x="1737" id="5"/>
+     <point y="93" x="1734" id="6"/>
+     <point y="98" x="1738" id="7"/>
+     <point y="103" x="1731" id="8"/>
+     <point y="109" x="1723" id="9"/>
+     <point y="118" x="1732" id="10"/>
+     <point y="129" x="1737" id="11"/>
+     <point y="146" x="1735" id="12"/>
+     <point y="157" x="1728" id="13"/>
+     <point y="158" x="1721" id="14"/>
+     <point y="154" x="1716" id="15"/>
+     <point y="136" x="1714" id="16"/>
+     <point y="122" x="1711" id="17"/>
+     <point y="113" x="1711" id="18"/>
+     <point y="102" x="1702" id="19"/>
+     <point y="95" x="1696" id="20"/>
+     <point y="91" x="1698" id="21"/>
+     <point y="85" x="1704" id="22"/>
+     <point y="74" x="1686" id="23"/>
+     <point y="71" x="1680" id="24"/>
+     <point y="61" x="1687" id="25"/>
+     <point y="55" x="1694" id="26"/>
+     <point y="55" x="1705" id="27"/>
+     <point y="62" x="1714" id="28"/>
+     <point y="72" x="1716" id="29"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="5">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1899</x>
+     <y>508</y>
+    </center>
+    <points>
+     <number>25</number>
+     <point y="464" x="1906" id="1"/>
+     <point y="469" x="1909" id="2"/>
+     <point y="485" x="1912" id="3"/>
+     <point y="493" x="1913" id="4"/>
+     <point y="492" x="1920" id="5"/>
+     <point y="495" x="1926" id="6"/>
+     <point y="500" x="1928" id="7"/>
+     <point y="503" x="1918" id="8"/>
+     <point y="514" x="1915" id="9"/>
+     <point y="525" x="1917" id="10"/>
+     <point y="535" x="1919" id="11"/>
+     <point y="542" x="1916" id="12"/>
+     <point y="542" x="1903" id="13"/>
+     <point y="533" x="1899" id="14"/>
+     <point y="517" x="1897" id="15"/>
+     <point y="520" x="1893" id="16"/>
+     <point y="517" x="1883" id="17"/>
+     <point y="503" x="1883" id="18"/>
+     <point y="503" x="1892" id="19"/>
+     <point y="505" x="1896" id="20"/>
+     <point y="497" x="1899" id="21"/>
+     <point y="487" x="1895" id="22"/>
+     <point y="476" x="1893" id="23"/>
+     <point y="461" x="1897" id="24"/>
+     <point y="460" x="1903" id="25"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="6">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1906</x>
+     <y>663</y>
+    </center>
+    <points>
+     <number>9</number>
+     <point y="652" x="1895" id="1"/>
+     <point y="665" x="1894" id="2"/>
+     <point y="666" x="1899" id="3"/>
+     <point y="673" x="1903" id="4"/>
+     <point y="673" x="1910" id="5"/>
+     <point y="665" x="1913" id="6"/>
+     <point y="663" x="1921" id="7"/>
+     <point y="654" x="1917" id="8"/>
+     <point y="656" x="1907" id="9"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="7">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1884</x>
+     <y>813</y>
+    </center>
+    <points>
+     <number>12</number>
+     <point y="790" x="1886" id="1"/>
+     <point y="794" x="1899" id="2"/>
+     <point y="809" x="1893" id="3"/>
+     <point y="818" x="1908" id="4"/>
+     <point y="832" x="1905" id="5"/>
+     <point y="826" x="1889" id="6"/>
+     <point y="835" x="1890" id="7"/>
+     <point y="834" x="1879" id="8"/>
+     <point y="820" x="1873" id="9"/>
+     <point y="803" x="1853" id="10"/>
+     <point y="790" x="1862" id="11"/>
+     <point y="807" x="1880" id="12"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="8">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1994</x>
+     <y>897</y>
+    </center>
+    <points>
+     <number>35</number>
+     <point y="908" x="1981" id="1"/>
+     <point y="921" x="1973" id="2"/>
+     <point y="931" x="1971" id="3"/>
+     <point y="939" x="1969" id="4"/>
+     <point y="952" x="1963" id="5"/>
+     <point y="956" x="1969" id="6"/>
+     <point y="953" x="1978" id="7"/>
+     <point y="949" x="1986" id="8"/>
+     <point y="940" x="1996" id="9"/>
+     <point y="934" x="2000" id="10"/>
+     <point y="922" x="1999" id="11"/>
+     <point y="911" x="1997" id="12"/>
+     <point y="904" x="2002" id="13"/>
+     <point y="914" x="2010" id="14"/>
+     <point y="914" x="2019" id="15"/>
+     <point y="911" x="2033" id="16"/>
+     <point y="902" x="2041" id="17"/>
+     <point y="896" x="2034" id="18"/>
+     <point y="888" x="2019" id="19"/>
+     <point y="886" x="2006" id="20"/>
+     <point y="874" x="2005" id="21"/>
+     <point y="864" x="2007" id="22"/>
+     <point y="853" x="2007" id="23"/>
+     <point y="835" x="1998" id="24"/>
+     <point y="834" x="1993" id="25"/>
+     <point y="838" x="1989" id="26"/>
+     <point y="857" x="1989" id="27"/>
+     <point y="865" x="1990" id="28"/>
+     <point y="870" x="1991" id="29"/>
+     <point y="868" x="1984" id="30"/>
+     <point y="871" x="1980" id="31"/>
+     <point y="879" x="1980" id="32"/>
+     <point y="888" x="1980" id="33"/>
+     <point y="897" x="1982" id="34"/>
+     <point y="901" x="1985" id="35"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="9">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1947</x>
+     <y>114</y>
+    </center>
+    <points>
+     <number>5</number>
+     <point y="102" x="1944" id="1"/>
+     <point y="106" x="1939" id="2"/>
+     <point y="124" x="1947" id="3"/>
+     <point y="122" x="1952" id="4"/>
+     <point y="119" x="1954" id="5"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="10">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1561</x>
+     <y>498</y>
+    </center>
+    <points>
+     <number>30</number>
+     <point y="491" x="1508" id="1"/>
+     <point y="498" x="1517" id="2"/>
+     <point y="508" x="1531" id="3"/>
+     <point y="509" x="1546" id="4"/>
+     <point y="506" x="1555" id="5"/>
+     <point y="508" x="1559" id="6"/>
+     <point y="515" x="1545" id="7"/>
+     <point y="524" x="1541" id="8"/>
+     <point y="526" x="1561" id="9"/>
+     <point y="512" x="1567" id="10"/>
+     <point y="517" x="1582" id="11"/>
+     <point y="525" x="1590" id="12"/>
+     <point y="519" x="1597" id="13"/>
+     <point y="512" x="1600" id="14"/>
+     <point y="505" x="1599" id="15"/>
+     <point y="505" x="1587" id="16"/>
+     <point y="501" x="1581" id="17"/>
+     <point y="493" x="1590" id="18"/>
+     <point y="479" x="1590" id="19"/>
+     <point y="470" x="1589" id="20"/>
+     <point y="464" x="1584" id="21"/>
+     <point y="472" x="1576" id="22"/>
+     <point y="482" x="1570" id="23"/>
+     <point y="491" x="1565" id="24"/>
+     <point y="495" x="1554" id="25"/>
+     <point y="489" x="1553" id="26"/>
+     <point y="482" x="1548" id="27"/>
+     <point y="480" x="1529" id="28"/>
+     <point y="479" x="1514" id="29"/>
+     <point y="483" x="1511" id="30"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="11">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1628</x>
+     <y>503</y>
+    </center>
+    <points>
+     <number>40</number>
+     <point y="458" x="1618" id="1"/>
+     <point y="468" x="1617" id="2"/>
+     <point y="487" x="1613" id="3"/>
+     <point y="495" x="1615" id="4"/>
+     <point y="506" x="1616" id="5"/>
+     <point y="517" x="1606" id="6"/>
+     <point y="513" x="1590" id="7"/>
+     <point y="521" x="1569" id="8"/>
+     <point y="527" x="1565" id="9"/>
+     <point y="533" x="1563" id="10"/>
+     <point y="546" x="1556" id="11"/>
+     <point y="553" x="1556" id="12"/>
+     <point y="557" x="1571" id="13"/>
+     <point y="555" x="1593" id="14"/>
+     <point y="550" x="1601" id="15"/>
+     <point y="540" x="1612" id="16"/>
+     <point y="532" x="1613" id="17"/>
+     <point y="522" x="1620" id="18"/>
+     <point y="526" x="1624" id="19"/>
+     <point y="538" x="1637" id="20"/>
+     <point y="542" x="1654" id="21"/>
+     <point y="542" x="1663" id="22"/>
+     <point y="532" x="1664" id="23"/>
+     <point y="521" x="1658" id="24"/>
+     <point y="504" x="1651" id="25"/>
+     <point y="500" x="1651" id="26"/>
+     <point y="499" x="1660" id="27"/>
+     <point y="497" x="1672" id="28"/>
+     <point y="483" x="1683" id="29"/>
+     <point y="474" x="1686" id="30"/>
+     <point y="463" x="1689" id="31"/>
+     <point y="456" x="1686" id="32"/>
+     <point y="452" x="1677" id="33"/>
+     <point y="457" x="1664" id="34"/>
+     <point y="464" x="1651" id="35"/>
+     <point y="470" x="1646" id="36"/>
+     <point y="476" x="1644" id="37"/>
+     <point y="463" x="1637" id="38"/>
+     <point y="455" x="1632" id="39"/>
+     <point y="454" x="1620" id="40"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="12">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1720</x>
+     <y>496</y>
+    </center>
+    <points>
+     <number>4</number>
+     <point y="487" x="1723" id="1"/>
+     <point y="490" x="1729" id="2"/>
+     <point y="508" x="1717" id="3"/>
+     <point y="501" x="1711" id="4"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="13">
+    <center>
+     <hasNoCenter>true</hasNoCenter>
+    </center>
+    <points>
+     <number>5</number>
+     <point y="0" x="1452" id="1"/>
+     <point y="8" x="1452" id="2"/>
+     <point y="10" x="1456" id="3"/>
+     <point y="8" x="1460" id="4"/>
+     <point y="0" x="1467" id="5"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="14">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1298</x>
+     <y>136</y>
+    </center>
+    <points>
+     <number>4</number>
+     <point y="127" x="1289" id="1"/>
+     <point y="139" x="1286" id="2"/>
+     <point y="146" x="1307" id="3"/>
+     <point y="135" x="1311" id="4"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="15">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1265</x>
+     <y>174</y>
+    </center>
+    <points>
+     <number>20</number>
+     <point y="158" x="1230" id="1"/>
+     <point y="163" x="1236" id="2"/>
+     <point y="172" x="1243" id="3"/>
+     <point y="181" x="1249" id="4"/>
+     <point y="187" x="1258" id="5"/>
+     <point y="192" x="1269" id="6"/>
+     <point y="196" x="1281" id="7"/>
+     <point y="197" x="1291" id="8"/>
+     <point y="192" x="1298" id="9"/>
+     <point y="186" x="1302" id="10"/>
+     <point y="181" x="1290" id="11"/>
+     <point y="179" x="1276" id="12"/>
+     <point y="173" x="1275" id="13"/>
+     <point y="165" x="1278" id="14"/>
+     <point y="157" x="1274" id="15"/>
+     <point y="164" x="1264" id="16"/>
+     <point y="168" x="1258" id="17"/>
+     <point y="162" x="1252" id="18"/>
+     <point y="155" x="1244" id="19"/>
+     <point y="153" x="1236" id="20"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="16">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1192</x>
+     <y>129</y>
+    </center>
+    <points>
+     <number>12</number>
+     <point y="101" x="1182" id="1"/>
+     <point y="102" x="1199" id="2"/>
+     <point y="127" x="1196" id="3"/>
+     <point y="127" x="1217" id="4"/>
+     <point y="140" x="1217" id="5"/>
+     <point y="143" x="1199" id="6"/>
+     <point y="151" x="1201" id="7"/>
+     <point y="152" x="1192" id="8"/>
+     <point y="138" x="1187" id="9"/>
+     <point y="131" x="1167" id="10"/>
+     <point y="116" x="1170" id="11"/>
+     <point y="123" x="1184" id="12"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="17">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1200</x>
+     <y>163</y>
+    </center>
+    <points>
+     <number>10</number>
+     <point y="176" x="1186" id="1"/>
+     <point y="181" x="1196" id="2"/>
+     <point y="184" x="1205" id="3"/>
+     <point y="172" x="1204" id="4"/>
+     <point y="157" x="1214" id="5"/>
+     <point y="148" x="1209" id="6"/>
+     <point y="156" x="1206" id="7"/>
+     <point y="146" x="1203" id="8"/>
+     <point y="150" x="1189" id="9"/>
+     <point y="162" x="1192" id="10"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="18">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1122</x>
+     <y>226</y>
+    </center>
+    <points>
+     <number>12</number>
+     <point y="216" x="1083" id="1"/>
+     <point y="229" x="1079" id="2"/>
+     <point y="240" x="1112" id="3"/>
+     <point y="262" x="1130" id="4"/>
+     <point y="248" x="1150" id="5"/>
+     <point y="236" x="1140" id="6"/>
+     <point y="232" x="1157" id="7"/>
+     <point y="221" x="1150" id="8"/>
+     <point y="218" x="1131" id="9"/>
+     <point y="199" x="1124" id="10"/>
+     <point y="199" x="1109" id="11"/>
+     <point y="219" x="1108" id="12"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="19">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1208</x>
+     <y>339</y>
+    </center>
+    <points>
+     <number>12</number>
+     <point y="334" x="1191" id="1"/>
+     <point y="344" x="1191" id="2"/>
+     <point y="343" x="1202" id="3"/>
+     <point y="360" x="1209" id="4"/>
+     <point y="353" x="1217" id="5"/>
+     <point y="347" x="1216" id="6"/>
+     <point y="341" x="1229" id="7"/>
+     <point y="334" x="1226" id="8"/>
+     <point y="334" x="1213" id="9"/>
+     <point y="324" x="1209" id="10"/>
+     <point y="324" x="1202" id="11"/>
+     <point y="331" x="1200" id="12"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="20">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1152</x>
+     <y>409</y>
+    </center>
+    <points>
+     <number>8</number>
+     <point y="404" x="1134" id="1"/>
+     <point y="413" x="1134" id="2"/>
+     <point y="415" x="1148" id="3"/>
+     <point y="423" x="1169" id="4"/>
+     <point y="414" x="1176" id="5"/>
+     <point y="402" x="1165" id="6"/>
+     <point y="405" x="1154" id="7"/>
+     <point y="400" x="1143" id="8"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="21">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1159</x>
+     <y>112</y>
+    </center>
+    <points>
+     <number>10</number>
+     <point y="102" x="1145" id="1"/>
+     <point y="101" x="1158" id="2"/>
+     <point y="103" x="1166" id="3"/>
+     <point y="108" x="1169" id="4"/>
+     <point y="112" x="1171" id="5"/>
+     <point y="121" x="1174" id="6"/>
+     <point y="127" x="1164" id="7"/>
+     <point y="124" x="1155" id="8"/>
+     <point y="117" x="1146" id="9"/>
+     <point y="110" x="1142" id="10"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="22">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1174</x>
+     <y>232</y>
+    </center>
+    <points>
+     <number>60</number>
+     <point y="90" x="1097" id="1"/>
+     <point y="114" x="1092" id="2"/>
+     <point y="126" x="1092" id="3"/>
+     <point y="151" x="1093" id="4"/>
+     <point y="174" x="1094" id="5"/>
+     <point y="194" x="1099" id="6"/>
+     <point y="201" x="1103" id="7"/>
+     <point y="213" x="1119" id="8"/>
+     <point y="203" x="1132" id="9"/>
+     <point y="196" x="1143" id="10"/>
+     <point y="194" x="1152" id="11"/>
+     <point y="211" x="1162" id="12"/>
+     <point y="223" x="1165" id="13"/>
+     <point y="229" x="1164" id="14"/>
+     <point y="238" x="1162" id="15"/>
+     <point y="246" x="1168" id="16"/>
+     <point y="247" x="1176" id="17"/>
+     <point y="240" x="1181" id="18"/>
+     <point y="242" x="1188" id="19"/>
+     <point y="246" x="1201" id="20"/>
+     <point y="250" x="1215" id="21"/>
+     <point y="254" x="1215" id="22"/>
+     <point y="256" x="1203" id="23"/>
+     <point y="260" x="1193" id="24"/>
+     <point y="270" x="1191" id="25"/>
+     <point y="283" x="1195" id="26"/>
+     <point y="294" x="1203" id="27"/>
+     <point y="303" x="1221" id="28"/>
+     <point y="312" x="1246" id="29"/>
+     <point y="314" x="1270" id="30"/>
+     <point y="308" x="1298" id="31"/>
+     <point y="305" x="1313" id="32"/>
+     <point y="292" x="1316" id="33"/>
+     <point y="270" x="1310" id="34"/>
+     <point y="250" x="1303" id="35"/>
+     <point y="228" x="1292" id="36"/>
+     <point y="211" x="1275" id="37"/>
+     <point y="202" x="1259" id="38"/>
+     <point y="199" x="1246" id="39"/>
+     <point y="199" x="1236" id="40"/>
+     <point y="204" x="1230" id="41"/>
+     <point y="212" x="1224" id="42"/>
+     <point y="223" x="1224" id="43"/>
+     <point y="227" x="1222" id="44"/>
+     <point y="234" x="1217" id="45"/>
+     <point y="238" x="1216" id="46"/>
+     <point y="240" x="1215" id="47"/>
+     <point y="232" x="1195" id="48"/>
+     <point y="226" x="1188" id="49"/>
+     <point y="216" x="1183" id="50"/>
+     <point y="204" x="1177" id="51"/>
+     <point y="197" x="1175" id="52"/>
+     <point y="185" x="1177" id="53"/>
+     <point y="179" x="1184" id="54"/>
+     <point y="162" x="1187" id="55"/>
+     <point y="141" x="1179" id="56"/>
+     <point y="126" x="1173" id="57"/>
+     <point y="112" x="1153" id="58"/>
+     <point y="100" x="1131" id="59"/>
+     <point y="87" x="1101" id="60"/>
+    </points>
+    <class>crop</class>
+    <otherName>false</otherName>
+    <name>haricot</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="23">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1248</x>
+     <y>561</y>
+    </center>
+    <points>
+     <number>15</number>
+     <point y="553" x="1227" id="1"/>
+     <point y="562" x="1232" id="2"/>
+     <point y="570" x="1236" id="3"/>
+     <point y="575" x="1237" id="4"/>
+     <point y="586" x="1237" id="5"/>
+     <point y="580" x="1244" id="6"/>
+     <point y="572" x="1250" id="7"/>
+     <point y="566" x="1252" id="8"/>
+     <point y="563" x="1263" id="9"/>
+     <point y="560" x="1273" id="10"/>
+     <point y="551" x="1276" id="11"/>
+     <point y="548" x="1268" id="12"/>
+     <point y="550" x="1255" id="13"/>
+     <point y="547" x="1239" id="14"/>
+     <point y="546" x="1232" id="15"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="24">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1229</x>
+     <y>578</y>
+    </center>
+    <points>
+     <number>14</number>
+     <point y="580" x="1218" id="1"/>
+     <point y="586" x="1222" id="2"/>
+     <point y="595" x="1224" id="3"/>
+     <point y="600" x="1229" id="4"/>
+     <point y="595" x="1232" id="5"/>
+     <point y="584" x="1235" id="6"/>
+     <point y="586" x="1248" id="7"/>
+     <point y="572" x="1246" id="8"/>
+     <point y="575" x="1241" id="9"/>
+     <point y="562" x="1239" id="10"/>
+     <point y="559" x="1228" id="11"/>
+     <point y="567" x="1224" id="12"/>
+     <point y="566" x="1217" id="13"/>
+     <point y="575" x="1215" id="14"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="25">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1234</x>
+     <y>618</y>
+    </center>
+    <points>
+     <number>12</number>
+     <point y="602" x="1236" id="1"/>
+     <point y="606" x="1246" id="2"/>
+     <point y="617" x="1240" id="3"/>
+     <point y="626" x="1255" id="4"/>
+     <point y="637" x="1253" id="5"/>
+     <point y="627" x="1237" id="6"/>
+     <point y="635" x="1234" id="7"/>
+     <point y="630" x="1223" id="8"/>
+     <point y="618" x="1223" id="9"/>
+     <point y="614" x="1218" id="10"/>
+     <point y="605" x="1222" id="11"/>
+     <point y="609" x="1231" id="12"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="26">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1180</x>
+     <y>566</y>
+    </center>
+    <points>
+     <number>54</number>
+     <point y="552" x="1040" id="1"/>
+     <point y="560" x="1055" id="2"/>
+     <point y="576" x="1083" id="3"/>
+     <point y="589" x="1108" id="4"/>
+     <point y="597" x="1118" id="5"/>
+     <point y="601" x="1133" id="6"/>
+     <point y="602" x="1150" id="7"/>
+     <point y="598" x="1161" id="8"/>
+     <point y="593" x="1163" id="9"/>
+     <point y="585" x="1158" id="10"/>
+     <point y="578" x="1152" id="11"/>
+     <point y="582" x="1167" id="12"/>
+     <point y="586" x="1178" id="13"/>
+     <point y="592" x="1185" id="14"/>
+     <point y="587" x="1194" id="15"/>
+     <point y="584" x="1199" id="16"/>
+     <point y="575" x="1202" id="17"/>
+     <point y="572" x="1194" id="18"/>
+     <point y="569" x="1205" id="19"/>
+     <point y="570" x="1213" id="20"/>
+     <point y="569" x="1220" id="21"/>
+     <point y="556" x="1221" id="22"/>
+     <point y="549" x="1217" id="23"/>
+     <point y="541" x="1214" id="24"/>
+     <point y="533" x="1215" id="25"/>
+     <point y="532" x="1211" id="26"/>
+     <point y="539" x="1207" id="27"/>
+     <point y="549" x="1201" id="28"/>
+     <point y="555" x="1194" id="29"/>
+     <point y="557" x="1189" id="30"/>
+     <point y="545" x="1186" id="31"/>
+     <point y="537" x="1190" id="32"/>
+     <point y="529" x="1196" id="33"/>
+     <point y="523" x="1198" id="34"/>
+     <point y="521" x="1194" id="35"/>
+     <point y="524" x="1185" id="36"/>
+     <point y="530" x="1177" id="37"/>
+     <point y="535" x="1175" id="38"/>
+     <point y="542" x="1173" id="39"/>
+     <point y="550" x="1173" id="40"/>
+     <point y="551" x="1167" id="41"/>
+     <point y="540" x="1163" id="42"/>
+     <point y="530" x="1159" id="43"/>
+     <point y="529" x="1155" id="44"/>
+     <point y="528" x="1148" id="45"/>
+     <point y="516" x="1143" id="46"/>
+     <point y="510" x="1134" id="47"/>
+     <point y="509" x="1123" id="48"/>
+     <point y="516" x="1099" id="49"/>
+     <point y="522" x="1078" id="50"/>
+     <point y="526" x="1064" id="51"/>
+     <point y="534" x="1052" id="52"/>
+     <point y="540" x="1044" id="53"/>
+     <point y="548" x="1042" id="54"/>
+    </points>
+    <class>crop</class>
+    <otherName>false</otherName>
+    <name>haricot</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="27">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1252</x>
+     <y>966</y>
+    </center>
+    <points>
+     <number>15</number>
+     <point y="939" x="1254" id="1"/>
+     <point y="945" x="1256" id="2"/>
+     <point y="958" x="1258" id="3"/>
+     <point y="967" x="1253" id="4"/>
+     <point y="975" x="1259" id="5"/>
+     <point y="982" x="1270" id="6"/>
+     <point y="986" x="1270" id="7"/>
+     <point y="988" x="1263" id="8"/>
+     <point y="984" x="1255" id="9"/>
+     <point y="983" x="1244" id="10"/>
+     <point y="977" x="1239" id="11"/>
+     <point y="968" x="1236" id="12"/>
+     <point y="958" x="1235" id="13"/>
+     <point y="949" x="1241" id="14"/>
+     <point y="939" x="1250" id="15"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="28">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1300</x>
+     <y>1001</y>
+    </center>
+    <points>
+     <number>4</number>
+     <point y="992" x="1304" id="1"/>
+     <point y="995" x="1309" id="2"/>
+     <point y="1012" x="1296" id="3"/>
+     <point y="1007" x="1291" id="4"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="29">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1221</x>
+     <y>988</y>
+    </center>
+    <points>
+     <number>13</number>
+     <point y="985" x="1205" id="1"/>
+     <point y="992" x="1217" id="2"/>
+     <point y="1002" x="1211" id="3"/>
+     <point y="1007" x="1217" id="4"/>
+     <point y="997" x="1223" id="5"/>
+     <point y="1003" x="1244" id="6"/>
+     <point y="993" x="1243" id="7"/>
+     <point y="988" x="1230" id="8"/>
+     <point y="976" x="1235" id="9"/>
+     <point y="971" x="1227" id="10"/>
+     <point y="983" x="1221" id="11"/>
+     <point y="971" x="1208" id="12"/>
+     <point y="981" x="1203" id="13"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="30">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1091</x>
+     <y>1066</y>
+    </center>
+    <points>
+     <number>10</number>
+     <point y="1065" x="1074" id="1"/>
+     <point y="1073" x="1074" id="2"/>
+     <point y="1078" x="1077" id="3"/>
+     <point y="1080" x="1115" id="4"/>
+     <point y="1069" x="1116" id="5"/>
+     <point y="1064" x="1105" id="6"/>
+     <point y="1066" x="1097" id="7"/>
+     <point y="1060" x="1093" id="8"/>
+     <point y="1052" x="1085" id="9"/>
+     <point y="1058" x="1078" id="10"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="31">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1163</x>
+     <y>1030</y>
+    </center>
+    <points>
+     <number>56</number>
+     <point y="1003" x="1047" id="1"/>
+     <point y="1014" x="1053" id="2"/>
+     <point y="1023" x="1064" id="3"/>
+     <point y="1029" x="1076" id="4"/>
+     <point y="1038" x="1088" id="5"/>
+     <point y="1042" x="1085" id="6"/>
+     <point y="1052" x="1074" id="7"/>
+     <point y="1058" x="1070" id="8"/>
+     <point y="1063" x="1087" id="9"/>
+     <point y="1074" x="1123" id="10"/>
+     <point y="1071" x="1133" id="11"/>
+     <point y="1068" x="1146" id="12"/>
+     <point y="1069" x="1158" id="13"/>
+     <point y="1073" x="1165" id="14"/>
+     <point y="1079" x="1163" id="15"/>
+     <point y="1079" x="1217" id="16"/>
+     <point y="1065" x="1195" id="17"/>
+     <point y="1060" x="1169" id="18"/>
+     <point y="1046" x="1167" id="19"/>
+     <point y="1037" x="1179" id="20"/>
+     <point y="1046" x="1203" id="21"/>
+     <point y="1071" x="1187" id="22"/>
+     <point y="1079" x="1201" id="23"/>
+     <point y="1078" x="1272" id="24"/>
+     <point y="1062" x="1282" id="25"/>
+     <point y="1049" x="1288" id="26"/>
+     <point y="1037" x="1286" id="27"/>
+     <point y="1029" x="1281" id="28"/>
+     <point y="1021" x="1270" id="29"/>
+     <point y="1008" x="1255" id="30"/>
+     <point y="1002" x="1230" id="31"/>
+     <point y="1001" x="1217" id="32"/>
+     <point y="1007" x="1205" id="33"/>
+     <point y="1015" x="1203" id="34"/>
+     <point y="1029" x="1203" id="35"/>
+     <point y="1035" x="1204" id="36"/>
+     <point y="1029" x="1191" id="37"/>
+     <point y="1022" x="1184" id="38"/>
+     <point y="1019" x="1176" id="39"/>
+     <point y="1016" x="1168" id="40"/>
+     <point y="1007" x="1166" id="41"/>
+     <point y="1004" x="1162" id="42"/>
+     <point y="1007" x="1158" id="43"/>
+     <point y="1014" x="1152" id="44"/>
+     <point y="1011" x="1141" id="45"/>
+     <point y="1006" x="1151" id="46"/>
+     <point y="998" x="1162" id="47"/>
+     <point y="986" x="1166" id="48"/>
+     <point y="977" x="1159" id="49"/>
+     <point y="971" x="1147" id="50"/>
+     <point y="972" x="1133" id="51"/>
+     <point y="972" x="1119" id="52"/>
+     <point y="972" x="1099" id="53"/>
+     <point y="978" x="1078" id="54"/>
+     <point y="986" x="1063" id="55"/>
+     <point y="999" x="1044" id="56"/>
+    </points>
+    <class>crop</class>
+    <otherName>false</otherName>
+    <name>haricot</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="32">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1148</x>
+     <y>832</y>
+    </center>
+    <points>
+     <number>57</number>
+     <point y="1016" x="1047" id="1"/>
+     <point y="1000" x="1080" id="2"/>
+     <point y="982" x="1113" id="3"/>
+     <point y="960" x="1132" id="4"/>
+     <point y="936" x="1149" id="5"/>
+     <point y="915" x="1157" id="6"/>
+     <point y="890" x="1160" id="7"/>
+     <point y="872" x="1163" id="8"/>
+     <point y="865" x="1158" id="9"/>
+     <point y="859" x="1148" id="10"/>
+     <point y="850" x="1150" id="11"/>
+     <point y="846" x="1158" id="12"/>
+     <point y="853" x="1170" id="13"/>
+     <point y="858" x="1180" id="14"/>
+     <point y="864" x="1185" id="15"/>
+     <point y="874" x="1186" id="16"/>
+     <point y="883" x="1190" id="17"/>
+     <point y="890" x="1206" id="18"/>
+     <point y="891" x="1220" id="19"/>
+     <point y="887" x="1232" id="20"/>
+     <point y="885" x="1249" id="21"/>
+     <point y="876" x="1265" id="22"/>
+     <point y="856" x="1283" id="23"/>
+     <point y="833" x="1302" id="24"/>
+     <point y="814" x="1317" id="25"/>
+     <point y="801" x="1290" id="26"/>
+     <point y="781" x="1250" id="27"/>
+     <point y="775" x="1234" id="28"/>
+     <point y="779" x="1216" id="29"/>
+     <point y="780" x="1202" id="30"/>
+     <point y="782" x="1185" id="31"/>
+     <point y="777" x="1165" id="32"/>
+     <point y="776" x="1154" id="33"/>
+     <point y="773" x="1137" id="34"/>
+     <point y="770" x="1118" id="35"/>
+     <point y="765" x="1102" id="36"/>
+     <point y="765" x="1097" id="37"/>
+     <point y="778" x="1104" id="38"/>
+     <point y="785" x="1106" id="39"/>
+     <point y="798" x="1102" id="40"/>
+     <point y="814" x="1100" id="41"/>
+     <point y="834" x="1111" id="42"/>
+     <point y="839" x="1097" id="43"/>
+     <point y="846" x="1074" id="44"/>
+     <point y="844" x="1056" id="45"/>
+     <point y="841" x="1045" id="46"/>
+     <point y="860" x="1062" id="47"/>
+     <point y="865" x="1063" id="48"/>
+     <point y="885" x="1049" id="49"/>
+     <point y="894" x="1047" id="50"/>
+     <point y="912" x="1044" id="51"/>
+     <point y="924" x="1043" id="52"/>
+     <point y="933" x="1045" id="53"/>
+     <point y="946" x="1046" id="54"/>
+     <point y="958" x="1044" id="55"/>
+     <point y="975" x="1045" id="56"/>
+     <point y="987" x="1048" id="57"/>
+    </points>
+    <class>crop</class>
+    <otherName>false</otherName>
+    <name>haricot</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="33">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1162</x>
+     <y>726</y>
+    </center>
+    <points>
+     <number>87</number>
+     <point y="858" x="1152" id="1"/>
+     <point y="837" x="1142" id="2"/>
+     <point y="801" x="1134" id="3"/>
+     <point y="784" x="1136" id="4"/>
+     <point y="762" x="1141" id="5"/>
+     <point y="765" x="1137" id="6"/>
+     <point y="794" x="1147" id="7"/>
+     <point y="809" x="1149" id="8"/>
+     <point y="823" x="1150" id="9"/>
+     <point y="837" x="1128" id="10"/>
+     <point y="831" x="1083" id="11"/>
+     <point y="816" x="1028" id="12"/>
+     <point y="808" x="1005" id="13"/>
+     <point y="773" x="1032" id="14"/>
+     <point y="742" x="1053" id="15"/>
+     <point y="742" x="1060" id="16"/>
+     <point y="732" x="1061" id="17"/>
+     <point y="716" x="1084" id="18"/>
+     <point y="706" x="1107" id="19"/>
+     <point y="706" x="1118" id="20"/>
+     <point y="708" x="1131" id="21"/>
+     <point y="723" x="1138" id="22"/>
+     <point y="735" x="1137" id="23"/>
+     <point y="745" x="1137" id="24"/>
+     <point y="748" x="1143" id="25"/>
+     <point y="741" x="1152" id="26"/>
+     <point y="736" x="1158" id="27"/>
+     <point y="731" x="1157" id="28"/>
+     <point y="724" x="1153" id="29"/>
+     <point y="717" x="1159" id="30"/>
+     <point y="717" x="1163" id="31"/>
+     <point y="705" x="1171" id="32"/>
+     <point y="686" x="1175" id="33"/>
+     <point y="678" x="1171" id="34"/>
+     <point y="669" x="1157" id="35"/>
+     <point y="656" x="1147" id="36"/>
+     <point y="648" x="1143" id="37"/>
+     <point y="632" x="1145" id="38"/>
+     <point y="612" x="1155" id="39"/>
+     <point y="601" x="1168" id="40"/>
+     <point y="597" x="1177" id="41"/>
+     <point y="597" x="1190" id="42"/>
+     <point y="608" x="1208" id="43"/>
+     <point y="615" x="1215" id="44"/>
+     <point y="625" x="1231" id="45"/>
+     <point y="637" x="1245" id="46"/>
+     <point y="651" x="1254" id="47"/>
+     <point y="660" x="1258" id="48"/>
+     <point y="653" x="1263" id="49"/>
+     <point y="660" x="1267" id="50"/>
+     <point y="674" x="1258" id="51"/>
+     <point y="683" x="1253" id="52"/>
+     <point y="691" x="1253" id="53"/>
+     <point y="703" x="1248" id="54"/>
+     <point y="712" x="1243" id="55"/>
+     <point y="721" x="1236" id="56"/>
+     <point y="733" x="1230" id="57"/>
+     <point y="742" x="1222" id="58"/>
+     <point y="746" x="1211" id="59"/>
+     <point y="747" x="1203" id="60"/>
+     <point y="755" x="1213" id="61"/>
+     <point y="751" x="1231" id="62"/>
+     <point y="748" x="1244" id="63"/>
+     <point y="748" x="1253" id="64"/>
+     <point y="753" x="1261" id="65"/>
+     <point y="764" x="1271" id="66"/>
+     <point y="783" x="1279" id="67"/>
+     <point y="821" x="1300" id="68"/>
+     <point y="821" x="1284" id="69"/>
+     <point y="818" x="1254" id="70"/>
+     <point y="814" x="1243" id="71"/>
+     <point y="807" x="1225" id="72"/>
+     <point y="789" x="1211" id="73"/>
+     <point y="772" x="1209" id="74"/>
+     <point y="763" x="1206" id="75"/>
+     <point y="759" x="1201" id="76"/>
+     <point y="754" x="1191" id="77"/>
+     <point y="757" x="1189" id="78"/>
+     <point y="763" x="1196" id="79"/>
+     <point y="772" x="1201" id="80"/>
+     <point y="796" x="1201" id="81"/>
+     <point y="807" x="1199" id="82"/>
+     <point y="816" x="1192" id="83"/>
+     <point y="825" x="1181" id="84"/>
+     <point y="832" x="1168" id="85"/>
+     <point y="842" x="1159" id="86"/>
+     <point y="856" x="1156" id="87"/>
+    </points>
+    <class>crop</class>
+    <otherName>false</otherName>
+    <name>haricot</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="34">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1138</x>
+     <y>711</y>
+    </center>
+    <points>
+     <number>9</number>
+     <point y="698" x="1137" id="1"/>
+     <point y="703" x="1141" id="2"/>
+     <point y="709" x="1144" id="3"/>
+     <point y="715" x="1145" id="4"/>
+     <point y="731" x="1143" id="5"/>
+     <point y="731" x="1140" id="6"/>
+     <point y="723" x="1132" id="7"/>
+     <point y="701" x="1128" id="8"/>
+     <point y="696" x="1133" id="9"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="35">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1359</x>
+     <y>701</y>
+    </center>
+    <points>
+     <number>12</number>
+     <point y="686" x="1351" id="1"/>
+     <point y="682" x="1360" id="2"/>
+     <point y="692" x="1361" id="3"/>
+     <point y="687" x="1374" id="4"/>
+     <point y="696" x="1376" id="5"/>
+     <point y="705" x="1365" id="6"/>
+     <point y="719" x="1365" id="7"/>
+     <point y="721" x="1357" id="8"/>
+     <point y="710" x="1356" id="9"/>
+     <point y="713" x="1349" id="10"/>
+     <point y="707" x="1344" id="11"/>
+     <point y="698" x="1354" id="12"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="36">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>809</x>
+     <y>1006</y>
+    </center>
+    <points>
+     <number>4</number>
+     <point y="1000" x="804" id="1"/>
+     <point y="1007" x="801" id="2"/>
+     <point y="1012" x="814" id="3"/>
+     <point y="1005" x="817" id="4"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="37">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>786</x>
+     <y>995</y>
+    </center>
+    <points>
+     <number>12</number>
+     <point y="985" x="769" id="1"/>
+     <point y="1000" x="765" id="2"/>
+     <point y="999" x="779" id="3"/>
+     <point y="1005" x="779" id="4"/>
+     <point y="1007" x="784" id="5"/>
+     <point y="1002" x="787" id="6"/>
+     <point y="1010" x="803" id="7"/>
+     <point y="998" x="807" id="8"/>
+     <point y="996" x="794" id="9"/>
+     <point y="981" x="797" id="10"/>
+     <point y="978" x="789" id="11"/>
+     <point y="988" x="784" id="12"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="38">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>901</x>
+     <y>914</y>
+    </center>
+    <points>
+     <number>13</number>
+     <point y="887" x="891" id="1"/>
+     <point y="887" x="906" id="2"/>
+     <point y="906" x="911" id="3"/>
+     <point y="911" x="933" id="4"/>
+     <point y="920" x="927" id="5"/>
+     <point y="919" x="906" id="6"/>
+     <point y="927" x="912" id="7"/>
+     <point y="943" x="903" id="8"/>
+     <point y="941" x="895" id="9"/>
+     <point y="922" x="892" id="10"/>
+     <point y="912" x="873" id="11"/>
+     <point y="904" x="874" id="12"/>
+     <point y="906" x="891" id="13"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="39">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>779</x>
+     <y>816</y>
+    </center>
+    <points>
+     <number>10</number>
+     <point y="805" x="779" id="1"/>
+     <point y="806" x="792" id="2"/>
+     <point y="811" x="794" id="3"/>
+     <point y="818" x="790" id="4"/>
+     <point y="826" x="783" id="5"/>
+     <point y="827" x="777" id="6"/>
+     <point y="827" x="770" id="7"/>
+     <point y="821" x="766" id="8"/>
+     <point y="814" x="769" id="9"/>
+     <point y="811" x="776" id="10"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="40">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>818</x>
+     <y>551</y>
+    </center>
+    <points>
+     <number>15</number>
+     <point y="539" x="805" id="1"/>
+     <point y="542" x="815" id="2"/>
+     <point y="545" x="820" id="3"/>
+     <point y="542" x="830" id="4"/>
+     <point y="539" x="837" id="5"/>
+     <point y="544" x="840" id="6"/>
+     <point y="553" x="837" id="7"/>
+     <point y="559" x="831" id="8"/>
+     <point y="563" x="823" id="9"/>
+     <point y="568" x="813" id="10"/>
+     <point y="566" x="803" id="11"/>
+     <point y="559" x="802" id="12"/>
+     <point y="554" x="810" id="13"/>
+     <point y="549" x="809" id="14"/>
+     <point y="545" x="799" id="15"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="41">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>882</x>
+     <y>602</y>
+    </center>
+    <points>
+     <number>20</number>
+     <point y="577" x="874" id="1"/>
+     <point y="588" x="878" id="2"/>
+     <point y="598" x="886" id="3"/>
+     <point y="608" x="896" id="4"/>
+     <point y="616" x="903" id="5"/>
+     <point y="624" x="909" id="6"/>
+     <point y="637" x="911" id="7"/>
+     <point y="638" x="910" id="8"/>
+     <point y="629" x="902" id="9"/>
+     <point y="615" x="891" id="10"/>
+     <point y="607" x="884" id="11"/>
+     <point y="605" x="876" id="12"/>
+     <point y="603" x="864" id="13"/>
+     <point y="598" x="859" id="14"/>
+     <point y="595" x="869" id="15"/>
+     <point y="595" x="875" id="16"/>
+     <point y="582" x="866" id="17"/>
+     <point y="577" x="862" id="18"/>
+     <point y="573" x="865" id="19"/>
+     <point y="575" x="872" id="20"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>matricaire</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="42">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>1046</x>
+     <y>374</y>
+    </center>
+    <points>
+     <number>15</number>
+     <point y="362" x="1045" id="1"/>
+     <point y="368" x="1050" id="2"/>
+     <point y="366" x="1059" id="3"/>
+     <point y="367" x="1070" id="4"/>
+     <point y="373" x="1070" id="5"/>
+     <point y="377" x="1061" id="6"/>
+     <point y="381" x="1059" id="7"/>
+     <point y="385" x="1046" id="8"/>
+     <point y="387" x="1040" id="9"/>
+     <point y="387" x="1029" id="10"/>
+     <point y="383" x="1026" id="11"/>
+     <point y="377" x="1029" id="12"/>
+     <point y="374" x="1038" id="13"/>
+     <point y="369" x="1040" id="14"/>
+     <point y="364" x="1040" id="15"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="43">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>962</x>
+     <y>160</y>
+    </center>
+    <points>
+     <number>7</number>
+     <point y="138" x="951" id="1"/>
+     <point y="136" x="965" id="2"/>
+     <point y="162" x="969" id="3"/>
+     <point y="178" x="981" id="4"/>
+     <point y="191" x="966" id="5"/>
+     <point y="169" x="955" id="6"/>
+     <point y="146" x="953" id="7"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="44">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>974</x>
+     <y>175</y>
+    </center>
+    <points>
+     <number>11</number>
+     <point y="153" x="996" id="1"/>
+     <point y="170" x="1000" id="2"/>
+     <point y="170" x="981" id="3"/>
+     <point y="178" x="991" id="4"/>
+     <point y="187" x="983" id="5"/>
+     <point y="179" x="972" id="6"/>
+     <point y="196" x="957" id="7"/>
+     <point y="192" x="944" id="8"/>
+     <point y="182" x="944" id="9"/>
+     <point y="167" x="962" id="10"/>
+     <point y="154" x="985" id="11"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="45">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>921</x>
+     <y>120</y>
+    </center>
+    <points>
+     <number>12</number>
+     <point y="100" x="909" id="1"/>
+     <point y="98" x="922" id="2"/>
+     <point y="113" x="926" id="3"/>
+     <point y="113" x="934" id="4"/>
+     <point y="121" x="934" id="5"/>
+     <point y="125" x="929" id="6"/>
+     <point y="139" x="932" id="7"/>
+     <point y="141" x="924" id="8"/>
+     <point y="130" x="919" id="9"/>
+     <point y="129" x="910" id="10"/>
+     <point y="117" x="908" id="11"/>
+     <point y="116" x="913" id="12"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="46">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>890</x>
+     <y>44</y>
+    </center>
+    <points>
+     <number>19</number>
+     <point y="8" x="887" id="1"/>
+     <point y="25" x="893" id="2"/>
+     <point y="31" x="896" id="3"/>
+     <point y="34" x="899" id="4"/>
+     <point y="37" x="910" id="5"/>
+     <point y="42" x="917" id="6"/>
+     <point y="49" x="918" id="7"/>
+     <point y="49" x="907" id="8"/>
+     <point y="49" x="897" id="9"/>
+     <point y="66" x="893" id="10"/>
+     <point y="74" x="891" id="11"/>
+     <point y="74" x="885" id="12"/>
+     <point y="64" x="882" id="13"/>
+     <point y="52" x="883" id="14"/>
+     <point y="47" x="874" id="15"/>
+     <point y="46" x="869" id="16"/>
+     <point y="38" x="864" id="17"/>
+     <point y="32" x="871" id="18"/>
+     <point y="30" x="879" id="19"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="47">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>767</x>
+     <y>3</y>
+    </center>
+    <points>
+     <number>4</number>
+     <point y="3" x="759" id="1"/>
+     <point y="12" x="775" id="2"/>
+     <point y="0" x="779" id="3"/>
+     <point y="0" x="757" id="4"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="48">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>729</x>
+     <y>35</y>
+    </center>
+    <points>
+     <number>22</number>
+     <point y="45" x="698" id="1"/>
+     <point y="50" x="707" id="2"/>
+     <point y="52" x="721" id="3"/>
+     <point y="53" x="732" id="4"/>
+     <point y="64" x="748" id="5"/>
+     <point y="69" x="762" id="6"/>
+     <point y="73" x="771" id="7"/>
+     <point y="59" x="778" id="8"/>
+     <point y="48" x="776" id="9"/>
+     <point y="38" x="768" id="10"/>
+     <point y="29" x="757" id="11"/>
+     <point y="24" x="749" id="12"/>
+     <point y="23" x="741" id="13"/>
+     <point y="7" x="754" id="14"/>
+     <point y="0" x="756" id="15"/>
+     <point y="-1" x="674" id="16"/>
+     <point y="8" x="682" id="17"/>
+     <point y="14" x="689" id="18"/>
+     <point y="20" x="696" id="19"/>
+     <point y="29" x="697" id="20"/>
+     <point y="40" x="695" id="21"/>
+     <point y="46" x="696" id="22"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="49">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>644</x>
+     <y>103</y>
+    </center>
+    <points>
+     <number>15</number>
+     <point y="89" x="653" id="1"/>
+     <point y="97" x="654" id="2"/>
+     <point y="104" x="656" id="3"/>
+     <point y="109" x="658" id="4"/>
+     <point y="112" x="653" id="5"/>
+     <point y="117" x="648" id="6"/>
+     <point y="122" x="644" id="7"/>
+     <point y="122" x="636" id="8"/>
+     <point y="114" x="634" id="9"/>
+     <point y="107" x="634" id="10"/>
+     <point y="100" x="631" id="11"/>
+     <point y="94" x="635" id="12"/>
+     <point y="91" x="640" id="13"/>
+     <point y="87" x="645" id="14"/>
+     <point y="86" x="650" id="15"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="50">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>588</x>
+     <y>7</y>
+    </center>
+    <points>
+     <number>67</number>
+     <point y="87" x="594" id="1"/>
+     <point y="90" x="602" id="2"/>
+     <point y="105" x="610" id="3"/>
+     <point y="117" x="611" id="4"/>
+     <point y="143" x="602" id="5"/>
+     <point y="154" x="597" id="6"/>
+     <point y="165" x="594" id="7"/>
+     <point y="171" x="589" id="8"/>
+     <point y="164" x="574" id="9"/>
+     <point y="140" x="559" id="10"/>
+     <point y="113" x="550" id="11"/>
+     <point y="96" x="545" id="12"/>
+     <point y="84" x="551" id="13"/>
+     <point y="78" x="566" id="14"/>
+     <point y="77" x="574" id="15"/>
+     <point y="76" x="579" id="16"/>
+     <point y="71" x="584" id="17"/>
+     <point y="56" x="585" id="18"/>
+     <point y="35" x="587" id="19"/>
+     <point y="34" x="584" id="20"/>
+     <point y="44" x="581" id="21"/>
+     <point y="53" x="581" id="22"/>
+     <point y="69" x="591" id="23"/>
+     <point y="73" x="598" id="24"/>
+     <point y="79" x="598" id="25"/>
+     <point y="91" x="590" id="26"/>
+     <point y="89" x="576" id="27"/>
+     <point y="64" x="564" id="28"/>
+     <point y="57" x="560" id="29"/>
+     <point y="59" x="549" id="30"/>
+     <point y="57" x="536" id="31"/>
+     <point y="51" x="530" id="32"/>
+     <point y="40" x="534" id="33"/>
+     <point y="34" x="540" id="34"/>
+     <point y="28" x="549" id="35"/>
+     <point y="20" x="550" id="36"/>
+     <point y="14" x="556" id="37"/>
+     <point y="15" x="564" id="38"/>
+     <point y="12" x="567" id="39"/>
+     <point y="8" x="568" id="40"/>
+     <point y="9" x="559" id="41"/>
+     <point y="8" x="550" id="42"/>
+     <point y="4" x="540" id="43"/>
+     <point y="3" x="521" id="44"/>
+     <point y="2" x="509" id="45"/>
+     <point y="10" x="503" id="46"/>
+     <point y="20" x="497" id="47"/>
+     <point y="33" x="485" id="48"/>
+     <point y="36" x="470" id="49"/>
+     <point y="36" x="431" id="50"/>
+     <point y="26" x="400" id="51"/>
+     <point y="17" x="391" id="52"/>
+     <point y="0" x="395" id="53"/>
+     <point y="-1" x="682" id="54"/>
+     <point y="5" x="667" id="55"/>
+     <point y="7" x="658" id="56"/>
+     <point y="12" x="650" id="57"/>
+     <point y="19" x="650" id="58"/>
+     <point y="24" x="648" id="59"/>
+     <point y="26" x="638" id="60"/>
+     <point y="30" x="626" id="61"/>
+     <point y="35" x="621" id="62"/>
+     <point y="40" x="614" id="63"/>
+     <point y="42" x="605" id="64"/>
+     <point y="41" x="599" id="65"/>
+     <point y="35" x="592" id="66"/>
+     <point y="60" x="592" id="67"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="51">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>733</x>
+     <y>232</y>
+    </center>
+    <points>
+     <number>4</number>
+     <point y="223" x="735" id="1"/>
+     <point y="227" x="740" id="2"/>
+     <point y="242" x="734" id="3"/>
+     <point y="238" x="725" id="4"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="52">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>593</x>
+     <y>262</y>
+    </center>
+    <points>
+     <number>16</number>
+     <point y="246" x="596" id="1"/>
+     <point y="251" x="604" id="2"/>
+     <point y="255" x="613" id="3"/>
+     <point y="263" x="617" id="4"/>
+     <point y="270" x="615" id="5"/>
+     <point y="274" x="607" id="6"/>
+     <point y="279" x="603" id="7"/>
+     <point y="281" x="594" id="8"/>
+     <point y="276" x="588" id="9"/>
+     <point y="275" x="580" id="10"/>
+     <point y="273" x="574" id="11"/>
+     <point y="263" x="573" id="12"/>
+     <point y="256" x="577" id="13"/>
+     <point y="250" x="581" id="14"/>
+     <point y="244" x="587" id="15"/>
+     <point y="244" x="592" id="16"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="53">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>710</x>
+     <y>407</y>
+    </center>
+    <points>
+     <number>13</number>
+     <point y="386" x="716" id="1"/>
+     <point y="402" x="717" id="2"/>
+     <point y="409" x="716" id="3"/>
+     <point y="414" x="716" id="4"/>
+     <point y="428" x="717" id="5"/>
+     <point y="434" x="715" id="6"/>
+     <point y="432" x="706" id="7"/>
+     <point y="425" x="701" id="8"/>
+     <point y="414" x="700" id="9"/>
+     <point y="401" x="703" id="10"/>
+     <point y="389" x="706" id="11"/>
+     <point y="381" x="710" id="12"/>
+     <point y="379" x="715" id="13"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="54">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>746</x>
+     <y>528</y>
+    </center>
+    <points>
+     <number>42</number>
+     <point y="480" x="690" id="1"/>
+     <point y="493" x="697" id="2"/>
+     <point y="509" x="706" id="3"/>
+     <point y="513" x="714" id="4"/>
+     <point y="517" x="721" id="5"/>
+     <point y="521" x="727" id="6"/>
+     <point y="528" x="730" id="7"/>
+     <point y="535" x="722" id="8"/>
+     <point y="540" x="715" id="9"/>
+     <point y="546" x="718" id="10"/>
+     <point y="549" x="722" id="11"/>
+     <point y="559" x="724" id="12"/>
+     <point y="574" x="722" id="13"/>
+     <point y="581" x="728" id="14"/>
+     <point y="578" x="741" id="15"/>
+     <point y="572" x="748" id="16"/>
+     <point y="562" x="752" id="17"/>
+     <point y="554" x="753" id="18"/>
+     <point y="546" x="749" id="19"/>
+     <point y="547" x="757" id="20"/>
+     <point y="551" x="767" id="21"/>
+     <point y="553" x="784" id="22"/>
+     <point y="554" x="793" id="23"/>
+     <point y="549" x="794" id="24"/>
+     <point y="542" x="786" id="25"/>
+     <point y="534" x="773" id="26"/>
+     <point y="526" x="768" id="27"/>
+     <point y="524" x="776" id="28"/>
+     <point y="515" x="778" id="29"/>
+     <point y="506" x="781" id="30"/>
+     <point y="496" x="783" id="31"/>
+     <point y="489" x="780" id="32"/>
+     <point y="487" x="774" id="33"/>
+     <point y="491" x="766" id="34"/>
+     <point y="495" x="757" id="35"/>
+     <point y="500" x="752" id="36"/>
+     <point y="508" x="752" id="37"/>
+     <point y="501" x="743" id="38"/>
+     <point y="493" x="734" id="39"/>
+     <point y="488" x="723" id="40"/>
+     <point y="481" x="713" id="41"/>
+     <point y="475" x="693" id="42"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="55">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>695</x>
+     <y>597</y>
+    </center>
+    <points>
+     <number>12</number>
+     <point y="569" x="695" id="1"/>
+     <point y="570" x="707" id="2"/>
+     <point y="592" x="702" id="3"/>
+     <point y="602" x="716" id="4"/>
+     <point y="609" x="712" id="5"/>
+     <point y="606" x="704" id="6"/>
+     <point y="614" x="697" id="7"/>
+     <point y="609" x="688" id="8"/>
+     <point y="603" x="688" id="9"/>
+     <point y="606" x="675" id="10"/>
+     <point y="596" x="671" id="11"/>
+     <point y="590" x="691" id="12"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="56">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>736</x>
+     <y>605</y>
+    </center>
+    <points>
+     <number>12</number>
+     <point y="584" x="737" id="1"/>
+     <point y="587" x="748" id="2"/>
+     <point y="600" x="743" id="3"/>
+     <point y="601" x="761" id="4"/>
+     <point y="612" x="761" id="5"/>
+     <point y="611" x="743" id="6"/>
+     <point y="625" x="734" id="7"/>
+     <point y="624" x="725" id="8"/>
+     <point y="608" x="726" id="9"/>
+     <point y="598" x="716" id="10"/>
+     <point y="588" x="722" id="11"/>
+     <point y="595" x="733" id="12"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="57">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>662</x>
+     <y>637</y>
+    </center>
+    <points>
+     <number>4</number>
+     <point y="629" x="655" id="1"/>
+     <point y="627" x="667" id="2"/>
+     <point y="646" x="668" id="3"/>
+     <point y="647" x="660" id="4"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="58">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>671</x>
+     <y>711</y>
+    </center>
+    <points>
+     <number>44</number>
+     <point y="655" x="696" id="1"/>
+     <point y="668" x="698" id="2"/>
+     <point y="676" x="698" id="3"/>
+     <point y="685" x="698" id="4"/>
+     <point y="692" x="691" id="5"/>
+     <point y="696" x="684" id="6"/>
+     <point y="701" x="692" id="7"/>
+     <point y="705" x="700" id="8"/>
+     <point y="709" x="704" id="9"/>
+     <point y="714" x="705" id="10"/>
+     <point y="720" x="702" id="11"/>
+     <point y="724" x="695" id="12"/>
+     <point y="726" x="688" id="13"/>
+     <point y="726" x="681" id="14"/>
+     <point y="722" x="676" id="15"/>
+     <point y="726" x="669" id="16"/>
+     <point y="732" x="674" id="17"/>
+     <point y="740" x="675" id="18"/>
+     <point y="748" x="672" id="19"/>
+     <point y="759" x="666" id="20"/>
+     <point y="766" x="660" id="21"/>
+     <point y="773" x="653" id="22"/>
+     <point y="772" x="649" id="23"/>
+     <point y="762" x="643" id="24"/>
+     <point y="755" x="641" id="25"/>
+     <point y="746" x="639" id="26"/>
+     <point y="734" x="642" id="27"/>
+     <point y="729" x="647" id="28"/>
+     <point y="728" x="657" id="29"/>
+     <point y="724" x="660" id="30"/>
+     <point y="717" x="663" id="31"/>
+     <point y="714" x="648" id="32"/>
+     <point y="709" x="637" id="33"/>
+     <point y="690" x="633" id="34"/>
+     <point y="689" x="644" id="35"/>
+     <point y="690" x="657" id="36"/>
+     <point y="693" x="667" id="37"/>
+     <point y="702" x="672" id="38"/>
+     <point y="688" x="669" id="39"/>
+     <point y="679" x="664" id="40"/>
+     <point y="669" x="669" id="41"/>
+     <point y="660" x="676" id="42"/>
+     <point y="652" x="685" id="43"/>
+     <point y="651" x="693" id="44"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="59">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>623</x>
+     <y>598</y>
+    </center>
+    <points>
+     <number>9</number>
+     <point y="571" x="630" id="1"/>
+     <point y="579" x="653" id="2"/>
+     <point y="601" x="630" id="3"/>
+     <point y="637" x="621" id="4"/>
+     <point y="631" x="602" id="5"/>
+     <point y="615" x="608" id="6"/>
+     <point y="591" x="610" id="7"/>
+     <point y="586" x="626" id="8"/>
+     <point y="576" x="627" id="9"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="60">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>614</x>
+     <y>608</y>
+    </center>
+    <points>
+     <number>8</number>
+     <point y="589" x="587" id="1"/>
+     <point y="607" x="587" id="2"/>
+     <point y="615" x="611" id="3"/>
+     <point y="636" x="636" id="4"/>
+     <point y="621" x="647" id="5"/>
+     <point y="612" x="633" id="6"/>
+     <point y="601" x="619" id="7"/>
+     <point y="590" x="599" id="8"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="61">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>577</x>
+     <y>541</y>
+    </center>
+    <points>
+     <number>9</number>
+     <point y="532" x="564" id="1"/>
+     <point y="540" x="563" id="2"/>
+     <point y="550" x="572" id="3"/>
+     <point y="553" x="581" id="4"/>
+     <point y="550" x="587" id="5"/>
+     <point y="542" x="592" id="6"/>
+     <point y="533" x="591" id="7"/>
+     <point y="536" x="579" id="8"/>
+     <point y="534" x="571" id="9"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="62">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>589</x>
+     <y>676</y>
+    </center>
+    <points>
+     <number>30</number>
+     <point y="620" x="588" id="1"/>
+     <point y="636" x="604" id="2"/>
+     <point y="648" x="610" id="3"/>
+     <point y="645" x="623" id="4"/>
+     <point y="648" x="629" id="5"/>
+     <point y="659" x="625" id="6"/>
+     <point y="668" x="622" id="7"/>
+     <point y="674" x="613" id="8"/>
+     <point y="683" x="610" id="9"/>
+     <point y="692" x="606" id="10"/>
+     <point y="698" x="608" id="11"/>
+     <point y="710" x="606" id="12"/>
+     <point y="724" x="596" id="13"/>
+     <point y="735" x="589" id="14"/>
+     <point y="736" x="583" id="15"/>
+     <point y="729" x="577" id="16"/>
+     <point y="715" x="573" id="17"/>
+     <point y="703" x="577" id="18"/>
+     <point y="695" x="577" id="19"/>
+     <point y="693" x="568" id="20"/>
+     <point y="689" x="557" id="21"/>
+     <point y="684" x="554" id="22"/>
+     <point y="676" x="555" id="23"/>
+     <point y="669" x="569" id="24"/>
+     <point y="668" x="585" id="25"/>
+     <point y="663" x="584" id="26"/>
+     <point y="657" x="576" id="27"/>
+     <point y="642" x="576" id="28"/>
+     <point y="628" x="576" id="29"/>
+     <point y="620" x="580" id="30"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="63">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>460</x>
+     <y>847</y>
+    </center>
+    <points>
+     <number>8</number>
+     <point y="834" x="469" id="1"/>
+     <point y="846" x="467" id="2"/>
+     <point y="852" x="462" id="3"/>
+     <point y="859" x="458" id="4"/>
+     <point y="861" x="452" id="5"/>
+     <point y="853" x="453" id="6"/>
+     <point y="840" x="457" id="7"/>
+     <point y="834" x="462" id="8"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="64">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>529</x>
+     <y>758</y>
+    </center>
+    <points>
+     <number>14</number>
+     <point y="751" x="545" id="1"/>
+     <point y="758" x="541" id="2"/>
+     <point y="761" x="539" id="3"/>
+     <point y="768" x="539" id="4"/>
+     <point y="769" x="532" id="5"/>
+     <point y="768" x="525" id="6"/>
+     <point y="768" x="517" id="7"/>
+     <point y="766" x="511" id="8"/>
+     <point y="761" x="510" id="9"/>
+     <point y="751" x="519" id="10"/>
+     <point y="747" x="524" id="11"/>
+     <point y="749" x="530" id="12"/>
+     <point y="747" x="538" id="13"/>
+     <point y="748" x="542" id="14"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="65">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>349</x>
+     <y>517</y>
+    </center>
+    <points>
+     <number>12</number>
+     <point y="531" x="324" id="1"/>
+     <point y="538" x="337" id="2"/>
+     <point y="526" x="346" id="3"/>
+     <point y="530" x="356" id="4"/>
+     <point y="521" x="362" id="5"/>
+     <point y="517" x="357" id="6"/>
+     <point y="506" x="375" id="7"/>
+     <point y="497" x="365" id="8"/>
+     <point y="508" x="351" id="9"/>
+     <point y="507" x="346" id="10"/>
+     <point y="512" x="338" id="11"/>
+     <point y="518" x="338" id="12"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="66">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>391</x>
+     <y>506</y>
+    </center>
+    <points>
+     <number>4</number>
+     <point y="504" x="379" id="1"/>
+     <point y="511" x="379" id="2"/>
+     <point y="508" x="404" id="3"/>
+     <point y="501" x="402" id="4"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="67">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>472</x>
+     <y>466</y>
+    </center>
+    <points>
+     <number>35</number>
+     <point y="465" x="420" id="1"/>
+     <point y="474" x="429" id="2"/>
+     <point y="473" x="447" id="3"/>
+     <point y="475" x="458" id="4"/>
+     <point y="477" x="467" id="5"/>
+     <point y="484" x="458" id="6"/>
+     <point y="495" x="453" id="7"/>
+     <point y="507" x="455" id="8"/>
+     <point y="510" x="463" id="9"/>
+     <point y="508" x="478" id="10"/>
+     <point y="500" x="487" id="11"/>
+     <point y="494" x="490" id="12"/>
+     <point y="484" x="492" id="13"/>
+     <point y="477" x="495" id="14"/>
+     <point y="477" x="505" id="15"/>
+     <point y="468" x="521" id="16"/>
+     <point y="461" x="527" id="17"/>
+     <point y="454" x="529" id="18"/>
+     <point y="453" x="523" id="19"/>
+     <point y="452" x="509" id="20"/>
+     <point y="456" x="500" id="21"/>
+     <point y="451" x="496" id="22"/>
+     <point y="440" x="495" id="23"/>
+     <point y="432" x="495" id="24"/>
+     <point y="430" x="491" id="25"/>
+     <point y="435" x="479" id="26"/>
+     <point y="450" x="465" id="27"/>
+     <point y="457" x="464" id="28"/>
+     <point y="466" x="464" id="29"/>
+     <point y="461" x="456" id="30"/>
+     <point y="451" x="451" id="31"/>
+     <point y="448" x="431" id="32"/>
+     <point y="447" x="419" id="33"/>
+     <point y="453" x="413" id="34"/>
+     <point y="460" x="418" id="35"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="68">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>512</x>
+     <y>495</y>
+    </center>
+    <points>
+     <number>14</number>
+     <point y="462" x="516" id="1"/>
+     <point y="476" x="532" id="2"/>
+     <point y="490" x="521" id="3"/>
+     <point y="494" x="533" id="4"/>
+     <point y="502" x="531" id="5"/>
+     <point y="507" x="518" id="6"/>
+     <point y="522" x="531" id="7"/>
+     <point y="532" x="516" id="8"/>
+     <point y="522" x="506" id="9"/>
+     <point y="502" x="502" id="10"/>
+     <point y="496" x="482" id="11"/>
+     <point y="481" x="484" id="12"/>
+     <point y="490" x="502" id="13"/>
+     <point y="466" x="507" id="14"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="69">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>417</x>
+     <y>335</y>
+    </center>
+    <points>
+     <number>36</number>
+     <point y="281" x="418" id="1"/>
+     <point y="292" x="426" id="2"/>
+     <point y="301" x="433" id="3"/>
+     <point y="311" x="433" id="4"/>
+     <point y="322" x="427" id="5"/>
+     <point y="323" x="438" id="6"/>
+     <point y="323" x="445" id="7"/>
+     <point y="327" x="450" id="8"/>
+     <point y="333" x="442" id="9"/>
+     <point y="338" x="444" id="10"/>
+     <point y="345" x="438" id="11"/>
+     <point y="355" x="437" id="12"/>
+     <point y="360" x="431" id="13"/>
+     <point y="351" x="428" id="14"/>
+     <point y="359" x="426" id="15"/>
+     <point y="365" x="432" id="16"/>
+     <point y="376" x="429" id="17"/>
+     <point y="386" x="419" id="18"/>
+     <point y="393" x="407" id="19"/>
+     <point y="385" x="402" id="20"/>
+     <point y="364" x="404" id="21"/>
+     <point y="355" x="408" id="22"/>
+     <point y="352" x="412" id="23"/>
+     <point y="349" x="403" id="24"/>
+     <point y="344" x="393" id="25"/>
+     <point y="336" x="380" id="26"/>
+     <point y="329" x="378" id="27"/>
+     <point y="327" x="391" id="28"/>
+     <point y="327" x="402" id="29"/>
+     <point y="331" x="410" id="30"/>
+     <point y="329" x="417" id="31"/>
+     <point y="322" x="414" id="32"/>
+     <point y="312" x="404" id="33"/>
+     <point y="302" x="405" id="34"/>
+     <point y="290" x="409" id="35"/>
+     <point y="283" x="412" id="36"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="70">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>254</x>
+     <y>1045</y>
+    </center>
+    <points>
+     <number>11</number>
+     <point y="1034" x="253" id="1"/>
+     <point y="1035" x="264" id="2"/>
+     <point y="1039" x="270" id="3"/>
+     <point y="1047" x="269" id="4"/>
+     <point y="1053" x="263" id="5"/>
+     <point y="1059" x="256" id="6"/>
+     <point y="1061" x="246" id="7"/>
+     <point y="1053" x="243" id="8"/>
+     <point y="1047" x="245" id="9"/>
+     <point y="1039" x="242" id="10"/>
+     <point y="1033" x="246" id="11"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="71">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>278</x>
+     <y>774</y>
+    </center>
+    <points>
+     <number>4</number>
+     <point y="763" x="282" id="1"/>
+     <point y="767" x="288" id="2"/>
+     <point y="788" x="277" id="3"/>
+     <point y="781" x="267" id="4"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="72">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>348</x>
+     <y>269</y>
+    </center>
+    <points>
+     <number>4</number>
+     <point y="260" x="362" id="1"/>
+     <point y="271" x="365" id="2"/>
+     <point y="278" x="334" id="3"/>
+     <point y="268" x="332" id="4"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="73">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>246</x>
+     <y>253</y>
+    </center>
+    <points>
+     <number>11</number>
+     <point y="235" x="246" id="1"/>
+     <point y="237" x="255" id="2"/>
+     <point y="249" x="252" id="3"/>
+     <point y="258" x="266" id="4"/>
+     <point y="264" x="261" id="5"/>
+     <point y="261" x="249" id="6"/>
+     <point y="268" x="246" id="7"/>
+     <point y="264" x="234" id="8"/>
+     <point y="257" x="237" id="9"/>
+     <point y="248" x="230" id="10"/>
+     <point y="242" x="235" id="11"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="74">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>160</x>
+     <y>218</y>
+    </center>
+    <points>
+     <number>4</number>
+     <point y="206" x="158" id="1"/>
+     <point y="209" x="168" id="2"/>
+     <point y="231" x="164" id="3"/>
+     <point y="229" x="153" id="4"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="75">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>201</x>
+     <y>126</y>
+    </center>
+    <points>
+     <number>51</number>
+     <point y="133" x="194" id="1"/>
+     <point y="143" x="197" id="2"/>
+     <point y="154" x="186" id="3"/>
+     <point y="167" x="184" id="4"/>
+     <point y="184" x="188" id="5"/>
+     <point y="197" x="195" id="6"/>
+     <point y="201" x="206" id="7"/>
+     <point y="203" x="216" id="8"/>
+     <point y="200" x="231" id="9"/>
+     <point y="191" x="217" id="10"/>
+     <point y="182" x="212" id="11"/>
+     <point y="171" x="216" id="12"/>
+     <point y="163" x="214" id="13"/>
+     <point y="154" x="209" id="14"/>
+     <point y="146" x="211" id="15"/>
+     <point y="144" x="223" id="16"/>
+     <point y="136" x="235" id="17"/>
+     <point y="128" x="228" id="18"/>
+     <point y="122" x="232" id="19"/>
+     <point y="121" x="240" id="20"/>
+     <point y="118" x="253" id="21"/>
+     <point y="117" x="259" id="22"/>
+     <point y="115" x="274" id="23"/>
+     <point y="112" x="287" id="24"/>
+     <point y="105" x="289" id="25"/>
+     <point y="102" x="281" id="26"/>
+     <point y="108" x="259" id="27"/>
+     <point y="112" x="238" id="28"/>
+     <point y="116" x="214" id="29"/>
+     <point y="115" x="205" id="30"/>
+     <point y="106" x="204" id="31"/>
+     <point y="99" x="205" id="32"/>
+     <point y="89" x="216" id="33"/>
+     <point y="71" x="226" id="34"/>
+     <point y="62" x="228" id="35"/>
+     <point y="51" x="222" id="36"/>
+     <point y="52" x="209" id="37"/>
+     <point y="60" x="197" id="38"/>
+     <point y="72" x="189" id="39"/>
+     <point y="87" x="187" id="40"/>
+     <point y="111" x="188" id="41"/>
+     <point y="100" x="171" id="42"/>
+     <point y="99" x="158" id="43"/>
+     <point y="104" x="147" id="44"/>
+     <point y="106" x="135" id="45"/>
+     <point y="115" x="132" id="46"/>
+     <point y="120" x="139" id="47"/>
+     <point y="131" x="154" id="48"/>
+     <point y="135" x="166" id="49"/>
+     <point y="138" x="177" id="50"/>
+     <point y="134" x="186" id="51"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="76">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>243</x>
+     <y>90</y>
+    </center>
+    <points>
+     <number>22</number>
+     <point y="6" x="263" id="1"/>
+     <point y="22" x="260" id="2"/>
+     <point y="44" x="262" id="3"/>
+     <point y="55" x="266" id="4"/>
+     <point y="66" x="267" id="5"/>
+     <point y="74" x="264" id="6"/>
+     <point y="84" x="256" id="7"/>
+     <point y="94" x="258" id="8"/>
+     <point y="108" x="275" id="9"/>
+     <point y="130" x="281" id="10"/>
+     <point y="126" x="265" id="11"/>
+     <point y="102" x="249" id="12"/>
+     <point y="100" x="242" id="13"/>
+     <point y="102" x="231" id="14"/>
+     <point y="99" x="216" id="15"/>
+     <point y="83" x="211" id="16"/>
+     <point y="72" x="233" id="17"/>
+     <point y="60" x="221" id="18"/>
+     <point y="36" x="218" id="19"/>
+     <point y="10" x="232" id="20"/>
+     <point y="0" x="245" id="21"/>
+     <point y="2" x="261" id="22"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="77">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>86</x>
+     <y>331</y>
+    </center>
+    <points>
+     <number>12</number>
+     <point y="304" x="87" id="1"/>
+     <point y="312" x="104" id="2"/>
+     <point y="329" x="103" id="3"/>
+     <point y="338" x="114" id="4"/>
+     <point y="357" x="108" id="5"/>
+     <point y="345" x="89" id="6"/>
+     <point y="359" x="83" id="7"/>
+     <point y="348" x="62" id="8"/>
+     <point y="332" x="74" id="9"/>
+     <point y="325" x="64" id="10"/>
+     <point y="313" x="69" id="11"/>
+     <point y="317" x="82" id="12"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="78">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>87</x>
+     <y>441</y>
+    </center>
+    <points>
+     <number>51</number>
+     <point y="426" x="-1" id="1"/>
+     <point y="418" x="23" id="2"/>
+     <point y="440" x="43" id="3"/>
+     <point y="447" x="69" id="4"/>
+     <point y="455" x="82" id="5"/>
+     <point y="462" x="97" id="6"/>
+     <point y="468" x="118" id="7"/>
+     <point y="473" x="128" id="8"/>
+     <point y="480" x="127" id="9"/>
+     <point y="488" x="120" id="10"/>
+     <point y="500" x="115" id="11"/>
+     <point y="513" x="125" id="12"/>
+     <point y="520" x="148" id="13"/>
+     <point y="527" x="170" id="14"/>
+     <point y="529" x="190" id="15"/>
+     <point y="523" x="203" id="16"/>
+     <point y="518" x="222" id="17"/>
+     <point y="508" x="236" id="18"/>
+     <point y="507" x="252" id="19"/>
+     <point y="509" x="261" id="20"/>
+     <point y="504" x="266" id="21"/>
+     <point y="494" x="256" id="22"/>
+     <point y="479" x="250" id="23"/>
+     <point y="462" x="242" id="24"/>
+     <point y="451" x="230" id="25"/>
+     <point y="442" x="221" id="26"/>
+     <point y="434" x="207" id="27"/>
+     <point y="425" x="190" id="28"/>
+     <point y="419" x="169" id="29"/>
+     <point y="418" x="160" id="30"/>
+     <point y="423" x="144" id="31"/>
+     <point y="433" x="141" id="32"/>
+     <point y="446" x="139" id="33"/>
+     <point y="457" x="134" id="34"/>
+     <point y="444" x="132" id="35"/>
+     <point y="439" x="129" id="36"/>
+     <point y="444" x="112" id="37"/>
+     <point y="440" x="100" id="38"/>
+     <point y="430" x="89" id="39"/>
+     <point y="418" x="89" id="40"/>
+     <point y="411" x="78" id="41"/>
+     <point y="405" x="71" id="42"/>
+     <point y="405" x="59" id="43"/>
+     <point y="406" x="52" id="44"/>
+     <point y="401" x="43" id="45"/>
+     <point y="396" x="43" id="46"/>
+     <point y="385" x="52" id="47"/>
+     <point y="370" x="60" id="48"/>
+     <point y="362" x="60" id="49"/>
+     <point y="355" x="53" id="50"/>
+     <point y="347" x="-1" id="51"/>
+    </points>
+    <class>crop</class>
+    <otherName>false</otherName>
+    <name>haricot</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="79">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>108</x>
+     <y>171</y>
+    </center>
+    <points>
+     <number>53</number>
+     <point y="14" x="117" id="1"/>
+     <point y="23" x="118" id="2"/>
+     <point y="36" x="122" id="3"/>
+     <point y="50" x="127" id="4"/>
+     <point y="62" x="128" id="5"/>
+     <point y="76" x="130" id="6"/>
+     <point y="96" x="128" id="7"/>
+     <point y="120" x="133" id="8"/>
+     <point y="130" x="136" id="9"/>
+     <point y="141" x="136" id="10"/>
+     <point y="153" x="131" id="11"/>
+     <point y="165" x="121" id="12"/>
+     <point y="176" x="130" id="13"/>
+     <point y="179" x="138" id="14"/>
+     <point y="187" x="143" id="15"/>
+     <point y="193" x="141" id="16"/>
+     <point y="207" x="141" id="17"/>
+     <point y="223" x="139" id="18"/>
+     <point y="234" x="134" id="19"/>
+     <point y="246" x="124" id="20"/>
+     <point y="256" x="113" id="21"/>
+     <point y="281" x="90" id="22"/>
+     <point y="290" x="81" id="23"/>
+     <point y="304" x="69" id="24"/>
+     <point y="310" x="62" id="25"/>
+     <point y="280" x="55" id="26"/>
+     <point y="265" x="44" id="27"/>
+     <point y="239" x="40" id="28"/>
+     <point y="211" x="40" id="29"/>
+     <point y="196" x="42" id="30"/>
+     <point y="185" x="48" id="31"/>
+     <point y="178" x="65" id="32"/>
+     <point y="189" x="73" id="33"/>
+     <point y="194" x="81" id="34"/>
+     <point y="188" x="86" id="35"/>
+     <point y="178" x="82" id="36"/>
+     <point y="171" x="87" id="37"/>
+     <point y="161" x="74" id="38"/>
+     <point y="156" x="59" id="39"/>
+     <point y="167" x="52" id="40"/>
+     <point y="176" x="48" id="41"/>
+     <point y="201" x="33" id="42"/>
+     <point y="210" x="-4" id="43"/>
+     <point y="80" x="-2" id="44"/>
+     <point y="98" x="26" id="45"/>
+     <point y="71" x="39" id="46"/>
+     <point y="56" x="43" id="47"/>
+     <point y="61" x="52" id="48"/>
+     <point y="70" x="57" id="49"/>
+     <point y="48" x="68" id="50"/>
+     <point y="25" x="81" id="51"/>
+     <point y="16" x="92" id="52"/>
+     <point y="10" x="114" id="53"/>
+    </points>
+    <class>crop</class>
+    <otherName>false</otherName>
+    <name>haricot</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="80">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>116</x>
+     <y>47</y>
+    </center>
+    <points>
+     <number>29</number>
+     <point y="12" x="32" id="1"/>
+     <point y="40" x="36" id="2"/>
+     <point y="41" x="48" id="3"/>
+     <point y="54" x="58" id="4"/>
+     <point y="62" x="75" id="5"/>
+     <point y="56" x="91" id="6"/>
+     <point y="43" x="96" id="7"/>
+     <point y="33" x="102" id="8"/>
+     <point y="50" x="103" id="9"/>
+     <point y="66" x="100" id="10"/>
+     <point y="83" x="102" id="11"/>
+     <point y="89" x="113" id="12"/>
+     <point y="92" x="142" id="13"/>
+     <point y="119" x="152" id="14"/>
+     <point y="117" x="186" id="15"/>
+     <point y="109" x="199" id="16"/>
+     <point y="92" x="202" id="17"/>
+     <point y="89" x="220" id="18"/>
+     <point y="69" x="211" id="19"/>
+     <point y="40" x="192" id="20"/>
+     <point y="2" x="171" id="21"/>
+     <point y="0" x="167" id="22"/>
+     <point y="0" x="122" id="23"/>
+     <point y="15" x="110" id="24"/>
+     <point y="2" x="103" id="25"/>
+     <point y="0" x="85" id="26"/>
+     <point y="2" x="59" id="27"/>
+     <point y="0" x="54" id="28"/>
+     <point y="0" x="35" id="29"/>
+    </points>
+    <class>crop</class>
+    <otherName>false</otherName>
+    <name>haricot</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="81">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>174</x>
+     <y>637</y>
+    </center>
+    <points>
+     <number>35</number>
+     <point y="584" x="228" id="1"/>
+     <point y="592" x="228" id="2"/>
+     <point y="605" x="223" id="3"/>
+     <point y="616" x="216" id="4"/>
+     <point y="626" x="205" id="5"/>
+     <point y="638" x="212" id="6"/>
+     <point y="653" x="216" id="7"/>
+     <point y="665" x="217" id="8"/>
+     <point y="665" x="205" id="9"/>
+     <point y="662" x="194" id="10"/>
+     <point y="658" x="181" id="11"/>
+     <point y="667" x="169" id="12"/>
+     <point y="681" x="158" id="13"/>
+     <point y="691" x="145" id="14"/>
+     <point y="693" x="133" id="15"/>
+     <point y="693" x="121" id="16"/>
+     <point y="681" x="113" id="17"/>
+     <point y="662" x="119" id="18"/>
+     <point y="656" x="131" id="19"/>
+     <point y="653" x="145" id="20"/>
+     <point y="653" x="153" id="21"/>
+     <point y="648" x="164" id="22"/>
+     <point y="644" x="168" id="23"/>
+     <point y="637" x="152" id="24"/>
+     <point y="625" x="140" id="25"/>
+     <point y="613" x="133" id="26"/>
+     <point y="604" x="138" id="27"/>
+     <point y="605" x="159" id="28"/>
+     <point y="610" x="173" id="29"/>
+     <point y="618" x="179" id="30"/>
+     <point y="625" x="185" id="31"/>
+     <point y="614" x="190" id="32"/>
+     <point y="597" x="189" id="33"/>
+     <point y="587" x="206" id="34"/>
+     <point y="580" x="223" id="35"/>
+    </points>
+    <class>weed</class>
+    <otherName>false</otherName>
+    <name>chenopode</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="82">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>75</x>
+     <y>995</y>
+    </center>
+    <points>
+     <number>47</number>
+     <point y="1081" x="40" id="1"/>
+     <point y="1045" x="59" id="2"/>
+     <point y="1036" x="76" id="3"/>
+     <point y="1033" x="91" id="4"/>
+     <point y="1039" x="104" id="5"/>
+     <point y="1047" x="126" id="6"/>
+     <point y="1049" x="129" id="7"/>
+     <point y="1059" x="115" id="8"/>
+     <point y="1064" x="91" id="9"/>
+     <point y="1068" x="79" id="10"/>
+     <point y="1082" x="81" id="11"/>
+     <point y="1079" x="237" id="12"/>
+     <point y="1051" x="226" id="13"/>
+     <point y="1034" x="222" id="14"/>
+     <point y="1021" x="217" id="15"/>
+     <point y="1005" x="203" id="16"/>
+     <point y="1002" x="185" id="17"/>
+     <point y="1001" x="170" id="18"/>
+     <point y="1006" x="158" id="19"/>
+     <point y="1022" x="151" id="20"/>
+     <point y="1035" x="141" id="21"/>
+     <point y="1036" x="131" id="22"/>
+     <point y="1020" x="122" id="23"/>
+     <point y="1004" x="119" id="24"/>
+     <point y="984" x="123" id="25"/>
+     <point y="958" x="113" id="26"/>
+     <point y="947" x="102" id="27"/>
+     <point y="945" x="74" id="28"/>
+     <point y="931" x="60" id="29"/>
+     <point y="924" x="57" id="30"/>
+     <point y="921" x="82" id="31"/>
+     <point y="902" x="85" id="32"/>
+     <point y="884" x="83" id="33"/>
+     <point y="868" x="91" id="34"/>
+     <point y="855" x="83" id="35"/>
+     <point y="811" x="80" id="36"/>
+     <point y="791" x="68" id="37"/>
+     <point y="785" x="46" id="38"/>
+     <point y="769" x="26" id="39"/>
+     <point y="767" x="0" id="40"/>
+     <point y="963" x="-5" id="41"/>
+     <point y="1063" x="-12" id="42"/>
+     <point y="1015" x="62" id="43"/>
+     <point y="1015" x="66" id="44"/>
+     <point y="1030" x="62" id="45"/>
+     <point y="1038" x="51" id="46"/>
+     <point y="1083" x="-7" id="47"/>
+    </points>
+    <class>crop</class>
+    <otherName>false</otherName>
+    <name>haricot</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="83">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>38</x>
+     <y>893</y>
+    </center>
+    <points>
+     <number>32</number>
+     <point y="1068" x="120" id="1"/>
+     <point y="1038" x="127" id="2"/>
+     <point y="1008" x="139" id="3"/>
+     <point y="952" x="143" id="4"/>
+     <point y="911" x="126" id="5"/>
+     <point y="894" x="122" id="6"/>
+     <point y="874" x="107" id="7"/>
+     <point y="874" x="91" id="8"/>
+     <point y="866" x="92" id="9"/>
+     <point y="852" x="110" id="10"/>
+     <point y="831" x="132" id="11"/>
+     <point y="806" x="140" id="12"/>
+     <point y="796" x="118" id="13"/>
+     <point y="784" x="80" id="14"/>
+     <point y="782" x="64" id="15"/>
+     <point y="784" x="54" id="16"/>
+     <point y="779" x="43" id="17"/>
+     <point y="773" x="40" id="18"/>
+     <point y="761" x="52" id="19"/>
+     <point y="748" x="67" id="20"/>
+     <point y="737" x="76" id="21"/>
+     <point y="718" x="71" id="22"/>
+     <point y="711" x="67" id="23"/>
+     <point y="704" x="80" id="24"/>
+     <point y="698" x="81" id="25"/>
+     <point y="700" x="70" id="26"/>
+     <point y="706" x="57" id="27"/>
+     <point y="742" x="-2" id="28"/>
+     <point y="1052" x="-5" id="29"/>
+     <point y="1033" x="71" id="30"/>
+     <point y="1056" x="103" id="31"/>
+     <point y="1068" x="115" id="32"/>
+    </points>
+    <class>crop</class>
+    <otherName>false</otherName>
+    <name>haricot</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+   <clipping id="84">
+    <center>
+     <hasNoCenter>false</hasNoCenter>
+     <x>64</x>
+     <y>592</y>
+    </center>
+    <points>
+     <number>47</number>
+     <point y="458" x="-1" id="1"/>
+     <point y="467" x="26" id="2"/>
+     <point y="484" x="51" id="3"/>
+     <point y="491" x="59" id="4"/>
+     <point y="498" x="66" id="5"/>
+     <point y="490" x="79" id="6"/>
+     <point y="484" x="94" id="7"/>
+     <point y="480" x="106" id="8"/>
+     <point y="496" x="101" id="9"/>
+     <point y="507" x="91" id="10"/>
+     <point y="523" x="89" id="11"/>
+     <point y="531" x="95" id="12"/>
+     <point y="532" x="114" id="13"/>
+     <point y="537" x="140" id="14"/>
+     <point y="539" x="159" id="15"/>
+     <point y="544" x="176" id="16"/>
+     <point y="557" x="170" id="17"/>
+     <point y="568" x="161" id="18"/>
+     <point y="580" x="153" id="19"/>
+     <point y="591" x="139" id="20"/>
+     <point y="600" x="127" id="21"/>
+     <point y="600" x="104" id="22"/>
+     <point y="603" x="100" id="23"/>
+     <point y="614" x="97" id="24"/>
+     <point y="626" x="113" id="25"/>
+     <point y="633" x="123" id="26"/>
+     <point y="641" x="132" id="27"/>
+     <point y="659" x="147" id="28"/>
+     <point y="680" x="146" id="29"/>
+     <point y="717" x="143" id="30"/>
+     <point y="744" x="143" id="31"/>
+     <point y="759" x="137" id="32"/>
+     <point y="768" x="130" id="33"/>
+     <point y="764" x="118" id="34"/>
+     <point y="747" x="85" id="35"/>
+     <point y="727" x="56" id="36"/>
+     <point y="705" x="34" id="37"/>
+     <point y="669" x="19" id="38"/>
+     <point y="611" x="31" id="39"/>
+     <point y="602" x="46" id="40"/>
+     <point y="602" x="26" id="41"/>
+     <point y="590" x="26" id="42"/>
+     <point y="587" x="54" id="43"/>
+     <point y="576" x="57" id="44"/>
+     <point y="570" x="34" id="45"/>
+     <point y="584" x="16" id="46"/>
+     <point y="587" x="-3" id="47"/>
+    </points>
+    <class>crop</class>
+    <otherName>false</otherName>
+    <name>haricot</name>
+    <growthStage/>
+    <trusted>
+     <isTrusted>true</isTrusted>
+     <reason/>
+    </trusted>
+   </clipping>
+  </clippings>
+  <isBlurred>false</isBlurred>
+ </data>
+</root>
