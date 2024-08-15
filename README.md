@@ -40,6 +40,6 @@ To use:
 Here you can test/train/validate the models. 
 
 1. Go to [YOLO_operations.py](https://github.com/ivanyordanovgt/smart_farm_robotix/blob/master/YOLO_operations.py)
-2. Enter the model path which you want to use. Enter the `epochs` and `imgsz`. If you do not have a model use "yolov8n.yaml" or "yolov8n.pt" for the path.
+2. Enter the model path which you want to use. Enter the `epochs` and `imgsz`. If you do not have a model use `yolov8n.yaml` or `yolov8n.pt` for the path.
 3. For training use the function `train` by passing the `model`, `epochs`, `imgsz`.
 4. For testing use `evaluate_model_performance` by passing the `model` and `TEST AMOUNT` which is the amount of images you want to perform the test on from the dataset.
