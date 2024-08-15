@@ -1,7 +1,7 @@
 import numpy as np
 import cv2
 
-from smart_farm_robotix.utils.annotations import read_annotations
+from utils.annotations import read_annotations
 
 
 def bb_intersection_over_union(boxA, boxB):

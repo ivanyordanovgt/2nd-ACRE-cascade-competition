@@ -1,7 +1,7 @@
 import os
 import cv2
-from smart_farm_robotix.extract_mask import apply_hsv_mask
-from smart_farm_robotix.xml_to_yolo import parse_xml_to_yolo
+from extract_mask import apply_hsv_mask
+from xml_to_yolo import parse_xml_to_yolo
 
 folder_path = '../given_datasets/data/Bean/2022-06-08-16-09'
 

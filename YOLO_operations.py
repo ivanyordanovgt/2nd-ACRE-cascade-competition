@@ -2,10 +2,10 @@ import numpy as np
 from ultralytics import YOLO
 import cv2
 
-from smart_farm_robotix.calc_similarity import evaluate_detections
-from smart_farm_robotix.extract_mask import apply_hsv_mask
-from smart_farm_robotix.utils.file_operations import get_paths_from_folder
-from smart_farm_robotix.xml_to_yolo import parse_xml_to_yolo
+from calc_similarity import evaluate_detections
+from extract_mask import apply_hsv_mask
+from utils.file_operations import get_paths_from_folder
+from xml_to_yolo import parse_xml_to_yolo
 
 
 def train(model, epochs=30, imgsz=640):

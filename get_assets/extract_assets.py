@@ -1,4 +1,4 @@
-from smart_farm_robotix.utils import get_paths_from_folder
+from utils import get_paths_from_folder
 import cv2
 import os
 
