@@ -38,7 +38,7 @@ def test(model, img_path, color_rework=False):
     return detections
 
 
-def evaluate_model_performance(model, TEST_AMOUNT):
+def evaluate_model_performance(model, TEST_AMOUNT, test_dataset_path):
     files = get_paths_from_folder(f"./given_datasets/data/Bean/2022-06-08-17-24/", [".jpg", ".xml"])
     jpg_files = files['.jpg']
     xml_files = files['.xml']
@@ -61,8 +61,10 @@ def evaluate_model_performance(model, TEST_AMOUNT):
 
 TEST_AMOUNT = 1
 train_count = 40
-# model_path = f"D:/brawl-stars-ai-training/runs/detect/train{train_count}/weights/best.pt"
+EPOCHS, IMGSZ = 100, 640
+TEST_DATASET_PATH = f"./given_datasets/data/Bean/2022-06-08-17-24/"
+# model_path = f"./runs/detect/train{train_count}/weights/best.pt"
 model_path = "yolov8n.yaml"
 model = YOLO(model_path)
-train(model, 100, 640)
-# evaluate_model_performance(model, 90)
+train(model, EPOCHS, IMGSZ)
+# evaluate_model_performance(model, TEST_AMOUNT, TEST_DATASET_PATH)
